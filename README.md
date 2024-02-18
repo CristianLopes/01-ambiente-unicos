@@ -4,6 +4,7 @@ The repository used to review HTML and CSS basics - [Course Explorer Rocketseat]
 Content Review in this project. 
 
 Main HTML Tags: https://efficient-sloth-d85.notion.site/Principais-elementos-HTML-da8b750fee5b49f2923fdc35b1c921fc
+
 Add external fonts
 Basic concepts related to content alignment
 
